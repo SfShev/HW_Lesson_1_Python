@@ -6,8 +6,6 @@
 # - 7 -> да
 # - 1 -> нет 
 
-from re import X
-
 
 day_of_week = int(input("Проверь,является ли день выходным \nВведите номер дня: "))
 def check_day(num_day):
